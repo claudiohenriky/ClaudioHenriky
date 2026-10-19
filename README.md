@@ -10,6 +10,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=800&color=00D084&center=true&vCenter=true&width=580&lines=Estudante+de+Desenvolvimento+de+Sistemas;Estudando+Python%2C+HTML%2C+CSS+e+JavaScript;Construindo+projetos+no+SENAI+%2F+CEJO;Um+commit+de+cada+vez." alt="Apresentação animada"/>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="72" alt="Animação tecnológica"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="72" alt="Animação de programação"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="72" alt="Ícone animado de tecnologia"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="72" alt="Ícone animado de desenvolvimento"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="72" alt="Animação de desenvolvedor"/>
+</p>
+
 <p>
   <a href="https://github.com/claudiohenriky"><img src="https://img.shields.io/badge/GitHub-claudiohenriky-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/SENAI-Desenvolvimento%20de%20Sistemas-00AEEF?style=for-the-badge" alt="Curso técnico no SENAI"/>
@@ -46,6 +54,12 @@ Atualmente, estou **estudando Python, HTML, CSS e JavaScript**. Também estou ap
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github&theme=dark" alt="Ícones das tecnologias estudadas: Python, HTML, CSS, JavaScript, Git e GitHub"/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="95" alt="Animação decorativa de programação"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="95" alt="Animação decorativa de tecnologia"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="95" alt="Animação decorativa de desenvolvimento"/>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-ESTUDANDO-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python em estudo"/>
