@@ -115,26 +115,6 @@ Aqui estão projetos que já existem no meu GitHub. Estou usando esta seção pa
 
 ---
 
-## 🎯 Próximos passos
-
-- [ ] Continuar praticando lógica de programação com Python.
-- [ ] Evoluir em HTML e CSS criando páginas web.
-- [ ] Estudar JavaScript para adicionar interatividade às páginas.
-- [ ] Melhorar a organização e documentação dos meus repositórios.
-- [ ] Aprender Git e GitHub cada vez melhor.
-- [ ] Começar MySQL e modelagem de bancos de dados quando chegar nessa etapa do aprendizado.
-
-## 🤝 Conecte-se comigo
-
-<div align="center">
-
-<a href="https://github.com/claudiohenriky"><img src="https://img.shields.io/badge/GitHub-Meus%20reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub"/></a>
-<a href="mailto:claudiohenrikysenaigo@gmail.com"><img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail"/></a>
-
-</div>
-
----
-
 <div align="center">
 
 ### ✨ Cada linha de código é mais um passo na minha evolução.
