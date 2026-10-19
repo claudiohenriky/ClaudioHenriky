@@ -1,4 +1,4 @@
-<!-- Perfil de Claudio Henriky | Personalize LinkedIn e projetos quando estiverem prontos -->
+<!-- Perfil de Claudio Henriky | Atualizado com projetos existentes -->
 
 <div align="center">
 
@@ -6,9 +6,9 @@
 
 # Olá, mundo! 👋
 
-### Transformando ideias em código, um projeto de cada vez.
+### Aprendendo, praticando e transformando ideias em código.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=00D084&center=true&vCenter=true&width=550&lines=Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+Python+e+desenvolvimento+web;Explorando+bancos+de+dados+e+IoT;Sempre+evoluindo%2C+uma+linha+de+c%C3%B3digo+por+vez." alt="Apresentação animada"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=800&color=00D084&center=true&vCenter=true&width=580&lines=Estudante+de+Desenvolvimento+de+Sistemas;Estudando+Python%2C+HTML%2C+CSS+e+JavaScript;Construindo+projetos+no+SENAI+%2F+CEJO;Um+commit+de+cada+vez." alt="Apresentação animada"/>
 
 <p>
   <a href="https://github.com/claudiohenriky"><img src="https://img.shields.io/badge/GitHub-claudiohenriky-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -20,51 +20,49 @@
 
 ---
 
+<div align="center">
+
+## 🐍 Minhas contribuições
+
+<img src="https://raw.githubusercontent.com/claudiohenriky/ClaudioHenriky/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha animada percorrendo o gráfico de contribuições do GitHub" width="100%"/>
+
+</div>
+
+---
+
 ## 👨‍💻 Sobre mim
 
-Sou estudante do **Curso Técnico em Desenvolvimento de Sistemas pelo SENAI / CEJO**, interessado em programação, desenvolvimento de software e soluções tecnológicas.
+Sou estudante do **Curso Técnico em Desenvolvimento de Sistemas pelo SENAI / CEJO**. Estou desenvolvendo minhas habilidades em programação e aprendendo a criar soluções com código, praticando por meio de atividades e projetos do curso.
 
-Estou construindo minha base em lógica de programação, Python, HTML, CSS, Git/GitHub, bancos de dados e conceitos de Internet das Coisas (IoT). Gosto de aprender na prática, experimentar ideias e transformar problemas em oportunidades de desenvolvimento.
+Atualmente, estou **estudando Python, HTML, CSS e JavaScript**. Também estou aprendendo a organizar meus projetos com Git e GitHub. **Ainda não comecei a estudar MySQL**, então ele fica como um próximo passo, não como uma habilidade atual.
 
 - 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas — em andamento.
-- 🐍 **Em prática:** Python e lógica de programação.
-- 🌐 **Interesses:** desenvolvimento web, bancos de dados e IoT.
-- 🎯 **Objetivo:** desenvolver projetos práticos e construir um portfólio para futuras oportunidades de estágio.
+- 📘 **Estudando agora:** Python, HTML, CSS e JavaScript.
+- 🧩 **Prática:** lógica de programação, páginas web e projetos escolares.
+- 🎯 **Objetivo:** aprender continuamente e construir um portfólio com projetos reais.
 
-## 🧰 Tecnologias e ferramentas
+## 🛠️ O que estou estudando
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github,mysql,arduino&theme=dark" alt="Ícones de Python, HTML, CSS, Git, GitHub, MySQL e Arduino"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github&theme=dark" alt="Ícones das tecnologias estudadas: Python, HTML, CSS, JavaScript, Git e GitHub"/>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/IoT-7B61FF?style=flat-square&logo=arduino&logoColor=white" alt="IoT"/>
+  <img src="https://img.shields.io/badge/Python-ESTUDANDO-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python em estudo"/>
+  <img src="https://img.shields.io/badge/HTML5-ESTUDANDO-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML em estudo"/>
+  <img src="https://img.shields.io/badge/CSS3-ESTUDANDO-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS em estudo"/>
+  <img src="https://img.shields.io/badge/JavaScript-ESTUDANDO-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript em estudo"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-AINDA%20N%C3%83O%20INICIADO-6C757D?style=flat-square&logo=mysql&logoColor=white" alt="MySQL ainda não iniciado"/>
 </p>
 
 </div>
 
-> Ícones representam áreas de estudo e prática, não certificações ou domínio profissional.
-
-## 📚 Em aprendizado
-
-| Área | Próximo objetivo |
-|---|---|
-| JavaScript | Aprender fundamentos e criar páginas interativas |
-| SQL | Praticar consultas, relacionamentos e operações CRUD |
-| Desenvolvimento web | Construir interfaces funcionais |
-| Modelagem de dados | Estudar entidades, relacionamentos e normalização |
-| Engenharia de software | Aprender testes, documentação e boas práticas |
-| IoT | Explorar dispositivos conectados e sensores |
-
 ---
 
-## 📈 Atividade e estatísticas
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -72,7 +70,7 @@ Estou construindo minha base em lógica de programação, Python, HTML, CSS, Git
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=claudiohenriky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D084&icon_color=00D084&text_color=C9D1D9&include_all_commits=true" alt="Estatísticas gerais do GitHub"/>
 </a>
 <a href="https://github.com/claudiohenriky">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohenriky&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D084&text_color=C9D1D9&langs_count=6" alt="Linguagens mais utilizadas"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohenriky&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D084&text_color=C9D1D9&langs_count=6" alt="Linguagens mais presentes nos repositórios"/>
 </a>
 
 <br/>
@@ -83,83 +81,55 @@ Estou construindo minha base em lógica de programação, Python, HTML, CSS, Git
 
 </div>
 
-<sub>Os cards dependem de serviços externos. Linguagens são estimativas baseadas nos repositórios, não uma medida de habilidade.</sub>
-
-## 🐍 Minha cobrinha de contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/claudiohenriky/ClaudioHenriky/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/claudiohenriky/ClaudioHenriky/output/github-contribution-grid-snake.svg">
-  <img alt="Cobrinha animada percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/claudiohenriky/ClaudioHenriky/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+<sub>Os cards dependem de serviços externos e dos dados públicos do perfil. As linguagens são estimativas baseadas nos repositórios, não uma medida de domínio.</sub>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Repositórios em destaque
 
-> Troque os marcadores abaixo por projetos reais quando os repositórios estiverem publicados. Remova os cards que ainda não se aplicam.
+Aqui estão projetos que já existem no meu GitHub. Estou usando esta seção para mostrar meu progresso real, sem listar projetos que ainda não comecei.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐍 Projeto Python</h3>
-      <p><strong>Nome:</strong> [NOME_DO_PROJETO]</p>
-      <p><strong>Descrição:</strong> [PROBLEMA_RESOLVIDO_E_FUNCIONALIDADES]</p>
-      <p><strong>Tecnologias:</strong> Python, lógica de programação</p>
-      <a href="https://github.com/claudiohenriky">Adicionar link do repositório →</a>
+      <h3>🧠 Quiz de Python</h3>
+      <a href="https://github.com/claudiohenriky/Quiz-de-Python"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-Quiz--de--Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Abrir Quiz de Python"/></a>
+      <p>Mini quiz interativo no terminal com perguntas de tecnologia, entrada de respostas, condicionais e pontuação final.</p>
+      <p><strong>Tecnologia:</strong> Python</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Projeto Web</h3>
-      <p><strong>Nome:</strong> [NOME_DO_PROJETO_WEB]</p>
-      <p><strong>Descrição:</strong> [DESCRICAO_DA_PAGINA_OU_INTERFACE]</p>
-      <p><strong>Tecnologias:</strong> HTML5, CSS3</p>
-      <a href="https://github.com/claudiohenriky">Adicionar link do repositório →</a>
+      <h3>📚 Sistema Biblioteca CEJO</h3>
+      <a href="https://github.com/claudiohenriky/Projeto-CEJO/tree/main/Sistema-Biblioteca-CEJO"><img src="https://img.shields.io/badge/VER%20PROJETO-Sistema%20Biblioteca-00AEEF?style=for-the-badge&logo=github&logoColor=white" alt="Abrir Sistema Biblioteca CEJO"/></a>
+      <p>Projeto escolar com estrutura de frontend, páginas HTML, CSS, JavaScript, diretório de backend e arquivos de banco de dados. O login real ainda depende da implementação e configuração do backend e do banco.</p>
+      <p><strong>Tecnologias em uso no projeto:</strong> HTML, CSS, JavaScript e estrutura planejada para backend/banco de dados.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🗄️ Projeto de Banco de Dados</h3>
-      <p><strong>Nome:</strong> [NOME_DO_PROJETO_BD]</p>
-      <p><strong>Descrição:</strong> [SISTEMA_E_DADOS_ARMAZENADOS]</p>
-      <p><strong>Tecnologias:</strong> SQL, modelagem de dados</p>
-      <a href="https://github.com/claudiohenriky">Adicionar link do repositório →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📡 Projeto IoT</h3>
-      <p><strong>Nome:</strong> [NOME_DO_PROJETO_IOT]</p>
-      <p><strong>Descrição:</strong> [IDEIA_OU_PROTOTIPO_DE_DISPOSITIVO_CONECTADO]</p>
-      <p><strong>Tecnologias:</strong> IoT, [TECNOLOGIAS_UTILIZADAS]</p>
-      <a href="https://github.com/claudiohenriky">Adicionar link do repositório →</a>
+    <td colspan="2" valign="top">
+      <h3>🗂️ Repositório do curso — Projeto CEJO</h3>
+      <a href="https://github.com/claudiohenriky/Projeto-CEJO"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-Projeto--CEJO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Abrir repositório Projeto CEJO"/></a>
+      <p>Repositório escolar que reúne o projeto do Sistema Biblioteca CEJO e seus arquivos de organização e documentação.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 Minhas metas
+## 🎯 Próximos passos
 
-- [ ] Fortalecer a lógica de programação e a resolução de problemas.
-- [ ] Criar projetos práticos utilizando Python.
-- [ ] Aprimorar conhecimentos em HTML, CSS e JavaScript.
-- [ ] Aprender modelagem de dados, SQL e operações CRUD.
-- [ ] Melhorar meu fluxo de trabalho com Git e GitHub.
-- [ ] Explorar aplicações práticas de IoT.
-- [ ] Estudar testes, documentação e boas práticas de código.
-- [ ] Construir um portfólio para futuras oportunidades de estágio e emprego.
+- [ ] Continuar praticando lógica de programação com Python.
+- [ ] Evoluir em HTML e CSS criando páginas web.
+- [ ] Estudar JavaScript para adicionar interatividade às páginas.
+- [ ] Melhorar a organização e documentação dos meus repositórios.
+- [ ] Aprender Git e GitHub cada vez melhor.
+- [ ] Começar MySQL e modelagem de bancos de dados quando chegar nessa etapa do aprendizado.
 
-## 🤝 Vamos nos conectar?
+## 🤝 Conecte-se comigo
 
 <div align="center">
 
-<a href="https://github.com/claudiohenriky"><img src="https://img.shields.io/badge/GitHub-Acompanhe%20meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<!-- Adicione seu LinkedIn quando tiver a URL pública. -->
-<!-- <a href="LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
-<!-- Adicione um e-mail público apenas se quiser divulgá-lo. -->
-<!-- <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a> -->
+<a href="https://github.com/claudiohenriky"><img src="https://img.shields.io/badge/GitHub-Meus%20reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub"/></a>
+<a href="mailto:claudiohenrikysenaigo@gmail.com"><img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail"/></a>
 
 </div>
 
@@ -167,10 +137,10 @@ Estou construindo minha base em lógica de programação, Python, HTML, CSS, Git
 
 <div align="center">
 
-### 💡 “Todo grande sistema começa com uma primeira linha de código.”
+### ✨ Cada linha de código é mais um passo na minha evolução.
 
 **Aprendendo hoje. Construindo soluções amanhã.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D084,50:101b2d,100:050505&height=100&section=footer" alt="Rodapé com ondas em verde e preto"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D084,50:101b2d,100:050505&height=100&section=footer" alt="Rodapé animado em verde e preto"/>
 
 </div>
