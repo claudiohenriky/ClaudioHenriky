@@ -1,64 +1,24 @@
-<!-- Perfil de Claudio Henriky | Atualizado com projetos existentes -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:101b2d,100:00D084&height=190&section=header&text=Claudio%20Henriky&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=60&descSize=16" alt="Cabeçalho escuro com detalhes verdes"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:101b2d,100:00D084&height=190&section=header&text=Claudio%20Henriky&fontSize=44&fontColor=F2E9DF&fontAlignY=38&desc=Desenvolvimento%20de%20Sistemas%20%7C%20SENAI%20%2F%20CEJO&descAlignY=62&descSize=15&animation=fadeIn" alt="Cabeçalho colorido com o nome Claudio Henriky"/>
 
-# Olá, mundo! 👋
+<a href="https://github.com/claudiohenriky"><img src="https://img.shields.io/badge/GitHub-@claudiohenriky-34312D?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub"/></a>
+<img src="https://img.shields.io/badge/SENAI-Estudante%20t%C3%A9cnico-00AEEF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Estudante do SENAI"/>
+<img src="https://img.shields.io/badge/Status-Em%20aprendizado-00D084?style=for-the-badge&logo=target&logoColor=white" alt="Em aprendizado"/>
 
-### Aprendendo, praticando e transformando ideias em código.
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=800&color=00D084&center=true&vCenter=true&width=580&lines=Estudante+de+Desenvolvimento+de+Sistemas;Estudando+Python%2C+HTML%2C+CSS+e+JavaScript;Construindo+projetos+no+SENAI+%2F+CEJO;Um+commit+de+cada+vez." alt="Apresentação animada"/>
-
-
-
-<p>
-  <a href="https://github.com/claudiohenriky"><img src="https://img.shields.io/badge/GitHub-claudiohenriky-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/SENAI-Desenvolvimento%20de%20Sistemas-00AEEF?style=for-the-badge" alt="Curso técnico no SENAI"/>
-  <img src="https://img.shields.io/badge/Status-Em%20aprendizado-00D084?style=for-the-badge" alt="Em aprendizado"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=750&color=CBBBAA&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+mundo!+%F0%9F%91%8B;Estudante+de+Desenvolvimento+de+Sistemas;Python+%7C+HTML+%7C+CSS+%7C+JavaScript;Um+projeto+e+um+commit+de+cada+vez+%E2%9C%A8" alt="Texto de apresentação animado"/>
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 🐍 Minhas contribuições
 
-<img src="https://raw.githubusercontent.com/claudiohenriky/ClaudioHenriky/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha animada percorrendo o gráfico de contribuições do GitHub" width="100%"/>
-
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou estudante do **Curso Técnico em Desenvolvimento de Sistemas pelo SENAI / CEJO**. Estou desenvolvendo minhas habilidades em programação e aprendendo a criar soluções com código, praticando por meio de atividades e projetos do curso.
-
-Atualmente, estou **estudando Python, HTML, CSS e JavaScript**. Também estou aprendendo a organizar meus projetos com Git e GitHub. **Ainda não comecei a estudar MySQL**, então ele fica como um próximo passo, não como uma habilidade atual.
-
-- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas — em andamento.
-- 📘 **Estudando agora:** Python, HTML, CSS e JavaScript.
-- 🧩 **Prática:** lógica de programação, páginas web e projetos escolares.
-- 🎯 **Objetivo:** aprender continuamente e construir um portfólio com projetos reais.
-
-## 🛠️ O que estou estudando
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github&theme=dark" alt="Ícones das tecnologias estudadas: Python, HTML, CSS, JavaScript, Git e GitHub"/>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-ESTUDANDO-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python em estudo"/>
-  <img src="https://img.shields.io/badge/HTML5-ESTUDANDO-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML em estudo"/>
-  <img src="https://img.shields.io/badge/CSS3-ESTUDANDO-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS em estudo"/>
-  <img src="https://img.shields.io/badge/JavaScript-ESTUDANDO-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript em estudo"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-AINDA%20N%C3%83O%20INICIADO-6C757D?style=flat-square&logo=mysql&logoColor=white" alt="MySQL ainda não iniciado"/>
-</p>
+<img width="100%" src="https://raw.githubusercontent.com/claudiohenriky/ClaudioHenriky/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha no gráfico de contribuições do GitHub"/>
 
 </div>
 
@@ -68,61 +28,131 @@ Atualmente, estou **estudando Python, HTML, CSS e JavaScript**. Também estou ap
 
 <div align="center">
 
-<a href="https://github.com/claudiohenriky">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=claudiohenriky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D084&icon_color=00D084&text_color=C9D1D9&include_all_commits=true" alt="Estatísticas gerais do GitHub"/>
-</a>
-<a href="https://github.com/claudiohenriky">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohenriky&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D084&text_color=C9D1D9&langs_count=6" alt="Linguagens mais presentes nos repositórios"/>
-</a>
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-readme-stats.vercel.app/api?username=claudiohenriky&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D084&icon_color=00D084&text_color=C9D1D9&ring_color=00D084&include_all_commits=true" height="175" alt="Estatísticas gerais do GitHub"/>
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohenriky&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D084&text_color=C9D1D9&langs_count=6" height="175" alt="Linguagens mais presentes nos repositórios"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<a href="https://github.com/claudiohenriky">
-  <img width="75%" src="https://streak-stats.demolab.com?user=claudiohenriky&theme=tokyonight&hide_border=true&background=0D1117&ring=00D084&fire=FFB000&currStreakLabel=00D084&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições"/>
-</a>
+<a href="https://github.com/claudiohenriky"><img width="80%" src="https://streak-stats.demolab.com?user=claudiohenriky&hide_border=true&background=0D1117&ring=00D084&fire=FFB000&currStreakLabel=00D084&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Resumo da sequência de contribuições"/></a>
+
+<sub>Os cartões dependem de serviços externos e de dados públicos. A lista de linguagens reflete os arquivos dos repositórios, não o nível de domínio.</sub>
 
 </div>
 
-<sub>Os cards dependem de serviços externos e dos dados públicos do perfil. As linguagens são estimativas baseadas nos repositórios, não uma medida de domínio.</sub>
+---
+
+## 👋 Sobre mim
+
+Sou estudante do **Curso Técnico em Desenvolvimento de Sistemas no SENAI / CEJO**. Estou aprendendo programação na prática, desenvolvendo projetos escolares e registrando minha evolução por aqui.
+
+- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas — em andamento no SENAI / CEJO.
+- 📚 **Estudando:** Python, HTML, CSS e JavaScript.
+- 🧰 **Ferramentas:** Git e GitHub para organizar e compartilhar meus projetos.
+- 🎯 **Objetivo:** evoluir como desenvolvedor e construir projetos cada vez melhores.
+
+> 🧩 Este perfil mostra meu processo de aprendizado. As tecnologias listadas são aquelas que estou estudando ou utilizando nos projetos — não uma declaração de domínio profissional.
+
+## 🎓 Minha jornada no SENAI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SENAI-Forma%C3%A7%C3%A3o%20t%C3%A9cnica-00AEEF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Formação técnica SENAI"/>
+<img src="https://img.shields.io/badge/CEJO-Desenvolvimento%20de%20Sistemas-7C3AED?style=for-the-badge&logo=code&logoColor=white" alt="Desenvolvimento de Sistemas no CEJO"/>
+
+<br/>
+
+**Aprender • Praticar • Criar • Melhorar**
+
+</div>
+
+No curso, estou colocando os conceitos em prática por meio de atividades e projetos. Um dos projetos em desenvolvimento é o **Sistema Biblioteca CEJO**, pensado para apoiar a organização de materiais escolares.
 
 ---
 
-## 🚀 Repositórios em destaque
+## 🛠️ Tecnologias e ferramentas
 
-Aqui estão projetos que já existem no meu GitHub. Estou usando esta seção para mostrar meu progresso real, sem listar projetos que ainda não comecei.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github&theme=dark" alt="Ícones de Python, HTML, CSS, JavaScript, Git e GitHub"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-ESTUDANDO-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python em estudo"/>
+<img src="https://img.shields.io/badge/HTML5-ESTUDANDO-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML em estudo"/>
+<img src="https://img.shields.io/badge/CSS3-ESTUDANDO-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS em estudo"/>
+<img src="https://img.shields.io/badge/JavaScript-ESTUDANDO-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript em estudo"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-EM%20PR%C3%81TICA-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Git e GitHub em prática"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MySQL-Pr%C3%B3xima%20etapa-64748B?style=flat-square&logo=mysql&logoColor=white" alt="MySQL é uma próxima etapa de estudo"/>
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+<div align="center">
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Quiz de Python</h3>
-      <a href="https://github.com/claudiohenriky/Quiz-de-Python"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-Quiz--de--Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Abrir Quiz de Python"/></a>
-      <p>Mini quiz interativo no terminal com perguntas de tecnologia, entrada de respostas, condicionais e pontuação final.</p>
-      <p><strong>Tecnologia:</strong> Python</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Sistema Biblioteca CEJO</h3>
-      <a href="https://github.com/claudiohenriky/Projeto-CEJO/tree/main/Sistema-Biblioteca-CEJO"><img src="https://img.shields.io/badge/VER%20PROJETO-Sistema%20Biblioteca-00AEEF?style=for-the-badge&logo=github&logoColor=white" alt="Abrir Sistema Biblioteca CEJO"/></a>
-      <p>Projeto escolar com estrutura de frontend, páginas HTML, CSS, JavaScript, diretório de backend e arquivos de banco de dados. O login real ainda depende da implementação e configuração do backend e do banco.</p>
-      <p><strong>Tecnologias em uso no projeto:</strong> HTML, CSS, JavaScript e estrutura planejada para backend/banco de dados.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🗂️ Repositório do curso — Projeto CEJO</h3>
-      <a href="https://github.com/claudiohenriky/Projeto-CEJO"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-Projeto--CEJO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Abrir repositório Projeto CEJO"/></a>
-      <p>Repositório escolar que reúne o projeto do Sistema Biblioteca CEJO e seus arquivos de organização e documentação.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Quiz de Python
+
+Um quiz executado no terminal para praticar perguntas, respostas, condicionais e pontuação.
+
+**Tecnologia:** Python
+
+<a href="https://github.com/claudiohenriky/Quiz-de-Python"><img src="https://img.shields.io/badge/Explorar%20projeto-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Explorar Quiz de Python"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Sistema Biblioteca CEJO
+
+Projeto escolar com páginas e arquivos de frontend. A implementação real de backend e banco de dados ainda faz parte do trabalho a desenvolver.
+
+**Tecnologias do frontend:** HTML, CSS e JavaScript
+
+<a href="https://github.com/claudiohenriky/Projeto-CEJO/tree/main/Sistema-Biblioteca-CEJO"><img src="https://img.shields.io/badge/Explorar%20projeto-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Sistema Biblioteca CEJO"/></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🗂️ Projeto CEJO
+
+Repositório do projeto escolar, reunindo o Sistema Biblioteca CEJO e os arquivos relacionados ao desenvolvimento.
+
+<a href="https://github.com/claudiohenriky/Projeto-CEJO"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto CEJO"/></a>
+
+</td>
+</tr>
 </table>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ Cada linha de código é mais um passo na minha evolução.
+### ✨ Cada commit é mais um passo na jornada.
 
-**Aprendendo hoje. Construindo soluções amanhã.**
+**Aprendendo hoje. Criando o próximo projeto amanhã.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D084,50:101b2d,100:050505&height=100&section=footer" alt="Rodapé animado em verde e preto"/>
+<a href="https://github.com/claudiohenriky?tab=repositories"><img src="https://img.shields.io/badge/Conhe%C3%A7a%20meus%20projetos-Explore%20no%20GitHub-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Explore os projetos no GitHub"/></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D084,50:101b2d,100:050505&height=100&section=footer" alt="Rodapé colorido"/>
 
 </div>
