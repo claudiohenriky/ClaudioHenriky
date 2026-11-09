@@ -31,10 +31,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
-<img src="https://github-readme-stats.vercel.app/api?username=claudiohenriky&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D084&icon_color=00D084&text_color=C9D1D9&ring_color=00D084&include_all_commits=true&exclude_repo=GALACTIC-DEFENDER" height="175" alt="Estatísticas gerais do GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api?username=claudiohenriky&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D084&icon_color=00D084&text_color=C9D1D9&ring_color=00D084&include_all_commits=true" height="175" alt="Estatísticas gerais do GitHub"/>
 </td>
 <td width="50%" align="center" valign="middle">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohenriky&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D084&text_color=C9D1D9&langs_count=6&exclude_repo=GALACTIC-DEFENDER" height="175" alt="Linguagens mais presentes nos repositórios"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohenriky&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D084&text_color=C9D1D9&langs_count=6" height="175" alt="Linguagens mais presentes nos repositórios"/>
 </td>
 </tr>
 </table>
