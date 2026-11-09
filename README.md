@@ -24,26 +24,15 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🧩 Tecnologias presentes nos repositórios
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-<img src="https://github-readme-stats.vercel.app/api?username=claudiohenriky&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D084&icon_color=00D084&text_color=C9D1D9&ring_color=00D084&include_all_commits=true" height="175" alt="Estatísticas gerais do GitHub"/>
-</td>
-<td width="50%" align="center" valign="middle">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohenriky&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D084&text_color=C9D1D9&langs_count=6" height="175" alt="Linguagens mais presentes nos repositórios"/>
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohenriky&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D084&text_color=C9D1D9&langs_count=6" height="175" alt="Linguagens presentes nos repositórios"/>
 
 <br/>
 
-<a href="https://github.com/claudiohenriky"><img width="80%" src="https://streak-stats.demolab.com?user=claudiohenriky&hide_border=true&background=0D1117&ring=00D084&fire=FFB000&currStreakLabel=00D084&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Resumo da sequência de contribuições"/></a>
-
-<sub>Os cartões dependem de serviços externos e de dados públicos. A lista de linguagens reflete os arquivos dos repositórios, não o nível de domínio.</sub>
+<sub>Este cartão mostra a presença de linguagens nos arquivos públicos dos repositórios. Ele não representa nível de domínio nem substitui a avaliação dos projetos.</sub>
 
 </div>
 
