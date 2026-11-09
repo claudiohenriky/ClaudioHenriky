@@ -41,7 +41,7 @@
 
 <br/>
 
-<a href="https://github.com/claudiohenriky"><img width="80%" src="https://streak-stats.demolab.com?user=claudiohenriky&hide_border=true&background=0D1117&ring=00D084&fire=FFB000&currStreakLabel=00D084&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Resumo da sequência de contribuições"/></a>
+<a href="https://github.com/claudiohenriky"><img width="80%" src="https://streak-stats.demolab.com?user=claudiohenriky&hide_border=true&background=0D1117&ring=00D084&fire=FFB000&currStreakLabel=00D084&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_total_contributions=true" alt="Resumo da sequência de contribuições"/></a>
 
 <sub>Os cartões dependem de serviços externos e de dados públicos. A lista de linguagens reflete os arquivos dos repositórios, não o nível de domínio.</sub>
 
